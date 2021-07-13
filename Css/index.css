@@ -21,6 +21,42 @@
 }
 
 footer ul li a {
-  color: white;
+  color: black;
   font-size: 1.3em;
+}
+
+.skill svg:hover {
+  transform: scale(1.5);
+  transition: ease-in-out;
+}
+.skill svg {
+  height: 1em;
+}
+
+.fa-html5 {
+  color: #e44d26;
+}
+
+.fa-css3-alt {
+  color: #2965f1;
+}
+
+.fa-js {
+  color: #f0db4f;
+}
+
+.fa-react {
+  color: #61dbfb;
+}
+
+.bi-bootstrap {
+  color: #7952b3;
+}
+
+.fa-database {
+  color: darkgray;
+}
+
+.fa-wordpress-simple {
+  color: #00749c;
 }
